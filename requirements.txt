@@ -6,4 +6,3 @@ seaborn
 yfinance
 tensorflow
 scikit-learn
-pickle
